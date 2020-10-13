@@ -16,8 +16,8 @@ const Home: React.FC = () => {
 
         <Footer>
           <address>
-            <strong>Barreiras</strong>
-            <span>Bahia</span>
+            <strong>Aragarças</strong>
+            <span>Goiás</span>
           </address>
 
           <AcessApp to="/app">
