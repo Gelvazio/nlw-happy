@@ -10,11 +10,23 @@
 
 <h1 align="center">Índice</h1>
 
-| [Como Usar](#como-usar) | [Tecnologias](#rocket-tecnologias) | [Features](#features-implementadas) | [Screenshots](#screenshots) | [Estrutura Pastas](#estrutura-pastas) |
-| :---------------------: | ---------------------------------: | :---------------------------------: | --------------------------: | ------------------------------------: |
+| [Como Usar](#como-usar) | [Tecnologias](#rocket-tecnologias) | [Features](#features-implementadas) | [Screenshots](#screenshots) | [Estrutura de Pastas](#estrutura-pastas) |
+| :---------------------: | ---------------------------------: | :---------------------------------: | --------------------------: | ---------------------------------------: |
 
 
-## Como Usar
+## 📝 Tabela de conteúdos
+
+- [Sobre](#about)
+- [Como usar](#como-usar)
+- [Uso](#usage)
+- [Construído utilizando](#built_using)
+- [Authors](#authors)
+
+### Requisitos
+
+Ter instalado pelo menos um gerenciador de pacotes do Node, [Npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/).
+
+## Como Usar <a name = "como-usar"></a>
 
 ```shell
 git clone git@github.com:jjunior96/nlw-happy.git
