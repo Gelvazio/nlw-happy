@@ -6,6 +6,8 @@
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/igorsteixeira94/happy?color=%2314C3D6">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/igorsteixeira94/happy?color=%2314C3D6&logoColor=%23FFD666" />
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/igorsteixeira94/happy?color=%2314C3D6">
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jjunior96/nlw-happy?color=%2314C3D6">
 </p>
 
 ## Tabela de conteúdos
