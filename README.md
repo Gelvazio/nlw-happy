@@ -45,7 +45,6 @@ cd nlw-happy
 
 #Iniciando o Web localhost:3000
 cd web
-yarn install
 yarn start
 ```
 
