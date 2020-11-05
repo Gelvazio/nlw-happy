@@ -3,9 +3,9 @@
 <p align="center"><i>Visite orfanatos e mude o dia de muitas crianças: NLW#3</i></p>
 </p>
 <p align="center">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/igorsteixeira94/happy?color=%2314C3D6">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/igorsteixeira94/happy?color=%2314C3D6&logoColor=%23FFD666" />
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/igorsteixeira94/happy?color=%2314C3D6">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jjunior96/nlw-happy?color=%2314C3D6">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/jjunior96/nlw-happy?color=%2314C3D6&logoColor=%23FFD666" />
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jjunior96/nlw-happy?color=%2314C3D6">
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jjunior96/nlw-happy?color=%2314C3D6">
 </p>
@@ -59,7 +59,7 @@ yarn start
 ## Construído utilizando <a name = "built_using"></a>
 
 - FrontEnd (Web):
-  - ReacJS;
+  - ReactJS;
   - React Router DOM;
   - Styled-Components;
   - Leaflet e react-leaflet;
